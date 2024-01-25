@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "381321996221",
+    "project_id": "chatbot-signin",
+    "storage_bucket": "chatbot-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381321996221:android:a54b55e9498fa1706914d4",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatbotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381321996221-dbsm96unu4grvr1gkgpd8rg3m6hc244g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq264kd9KvFvyIvGh_TfMTWDmwd4sWEcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381321996221-dbsm96unu4grvr1gkgpd8rg3m6hc244g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381321996221-5plrtf05tu2ol151vk8lsakkt18fvgf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterchatbotapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
